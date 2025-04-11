@@ -1,3 +1,25 @@
 --Bienvenido al texto de prueba--
 
 primera modificacion en el archivo .txt
+'''
+ORDEN PARA EJECUTAR UN CAMBIO
+git add . 
+git status
+git commit -m "mensaje"
+git status 
+git push origin "tu_rama"
+
+'''
+#git add . (agrega toda las modificaciones hechas)
+#git log --oneline (muestra los commits en la rama)
+#git branch (muestra la lista d elas ramas existentes y tu posicion)
+#git checkout "nombre de rama"(mueve tu ubicacion a la rama de ese nombre)
+#git checkout -b "nombre de rama" (crea una rama y te posiciona en ella)
+#git status (comprueba si hubo modificaciones)
+#git commit -m [confirma el cambio y agrega un mensaje(preferentemente poner el cambio realizado)]
+
+'''
+IMPORTANTE: luego de modificar cualquier cosa dentro del archivo.txt antes de hacer un git add presionar
+crtl + s (para guardar los cambios) luego continuar con normalidad
+( )
+'''
