@@ -19,5 +19,5 @@ git push origin "tu_rama"
 '''
 IMPORTANTE: luego de modificar cualquier cosa dentro del archivo.txt antes de hacer un git add presionar
 crtl + s (para guardar los cambios) luego continuar con normalidad
-()
+( )
 '''
