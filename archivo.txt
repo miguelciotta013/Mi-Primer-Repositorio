@@ -21,11 +21,3 @@ git push origin "tu_rama"
 '''
 IMPORTANTE: luego de modificar cualquier cosa dentro del archivo.txt antes de hacer un git add presionar
 crtl + s (para guardar los cambios) luego continuar con normalidad
-( )
-'''
-<<<<<<< HEAD
-hacer : cd Mi-Primer-Repositorio para tener las rmas del remoto
-luego hacer :git checkout -b (NombredesuRama) origin/dev
-=======
-#COMENTARIO PARA PRUEBA DE UN REVERT. 
->>>>>>> comentario de prueba
